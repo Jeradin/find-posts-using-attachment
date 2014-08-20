@@ -18,6 +18,8 @@ Adds a “Used In” column to the list view in Media Library, as well as to the
 
 Finds posts that use the image (including any of its intermediate sizes) in post content, or as a featured image. Works with custom post types too.
 
+Inspired by a [WP Tavern post](http://wptavern.com/the-problem-with-image-attachments-in-wordpress) on image attachments.
+
 == Installation ==
 
 1. Upload `find-posts-using-attachment` folder to the `/wp-content/plugins/` directory.
