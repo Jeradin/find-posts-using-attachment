@@ -1,0 +1,59 @@
+# Copyright (C) 2014 Find Posts Using Attachment
+# This file is distributed under the same license as the Find Posts Using Attachment package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Find Posts Using Attachment 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/find-posts-using-attachment\n"
+"POT-Creation-Date: 2014-08-20 19:49:39+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: find-posts-using-attachment.php:115
+msgid "(as Featured Image and in content)"
+msgstr ""
+
+#: find-posts-using-attachment.php:117
+msgid "(as Featured Image)"
+msgstr ""
+
+#: find-posts-using-attachment.php:119
+msgid "(in content)"
+msgstr ""
+
+#: find-posts-using-attachment.php:122
+msgid "Y/m/d"
+msgstr ""
+
+#: find-posts-using-attachment.php:126
+msgid "(Unused)"
+msgstr ""
+
+#: find-posts-using-attachment.php:136 find-posts-using-attachment.php:151
+msgid "Used In"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Find Posts Using Attachment"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wptavern.com/the-problem-with-image-attachments-in-wordpress"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Allows to find all posts where a particular attachment (image, video, etc.) "
+"is used."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sergey Biryukov"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://profiles.wordpress.org/sergeybiryukov/"
+msgstr ""
