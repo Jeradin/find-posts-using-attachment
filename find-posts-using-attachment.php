@@ -47,7 +47,8 @@ class Find_Posts_Using_Attachment {
 			foreach ( get_intermediate_image_sizes() as $size ) {
 				$intermediate = image_get_intermediate_size( $attachment_id, $size );
 				if ( $intermediate ) {
-					$attachment_urls[] = $intermediate['url'];
+					$cleanurl = preg_replace("(https?://)", "", $intermediate['url'] );
+					$attachment_urls[] = $cleanurl;
 				}
 			}
 		}
